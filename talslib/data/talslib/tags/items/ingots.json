@@ -1,0 +1,16 @@
+{
+    "values": [
+        {
+            "id": "#forge:ingots",
+            "required": false
+        },
+        {
+            "id": "#c:ingots",
+            "required": false
+        },
+        "minecraft:copper_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:netherite_ingot"
+    ]
+}

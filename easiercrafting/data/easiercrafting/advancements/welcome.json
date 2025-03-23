@@ -1,0 +1,33 @@
+{
+    "parent": "talslib:root",
+    "criteria": {
+      "0": {
+        "conditions": {},
+        "trigger": "minecraft:inventory_changed"
+      }
+    },
+    "display": {
+      "announce_to_chat": true,
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "description": {
+        "color": "gold",
+        "text": "Install Easier Crafting"
+      },
+      "frame": "task",
+      "hidden": false,
+      "icon": {
+        "item": "minecraft:warped_planks"
+      },
+      "show_toast": true,
+      "title": {
+        "color": "gold",
+        "text": "Tal's Lib"
+      }
+    },
+    "requirements": [
+      [
+        "0"
+      ]
+    ],
+    "sends_telemetry_event": true
+  }

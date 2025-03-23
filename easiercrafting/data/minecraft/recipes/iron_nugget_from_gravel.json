@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "talslib:dusts"
+        }
+    ],
+    "result": {
+        "item": "minecraft:iron_nugget"
+    },
+    "category": "misc",
+    "group": "gravel-nuggets"
+}

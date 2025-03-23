@@ -1,0 +1,25 @@
+{
+    "replace": true,
+    "values": [
+        {
+            "id": "#forge:dusts",
+            "required": false
+        },
+        {
+            "id": "#c:dusts",
+            "required": false
+        },
+        {
+            "id": "#minecraft:sand",
+            "required": true
+        },
+        {
+            "id": "minecraft:gravel",
+            "required": true
+        },
+        {
+            "id": "minecraft:suspicious_gravel",
+            "required": true
+        }
+    ]
+}

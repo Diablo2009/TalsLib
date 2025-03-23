@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "S": {
+            "item": "minecraft:cobblestone"
+        },
+        "I": {
+            "tag": "easiercrafting:gems"
+        }
+    },
+    "pattern": [
+        "SI",
+        "IS"
+    ],
+    "result": {
+        "item": "minecraft:diorite",
+        "count": 2
+    },
+    "category": "building",
+    "show_notification": true
+}

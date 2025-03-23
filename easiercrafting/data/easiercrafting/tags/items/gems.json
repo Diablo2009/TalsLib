@@ -1,0 +1,9 @@
+{
+    "values": [
+        {
+            "id": "#talslib:nuggets",
+            "required": false
+        },
+        "minecraft:quartz"
+    ]
+}

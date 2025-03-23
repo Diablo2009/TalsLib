@@ -1,0 +1,33 @@
+{
+    "parent": "talslib:root",
+    "criteria": {
+      "0": {
+        "conditions": {},
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "display": {
+      "announce_to_chat": true,
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "description": {
+        "color": "#DBA213",
+        "text": "Use a Tal's Lib Function"
+      },
+      "frame": "task",
+      "hidden": true,
+      "icon": {
+        "item": "minecraft:warped_planks"
+      },
+      "show_toast": true,
+      "title": {
+        "color": "#000FF",
+        "text": "Functions?"
+      }
+    },
+    "requirements": [
+      [
+        "0"
+      ]
+    ],
+    "sends_telemetry_event": true
+  }

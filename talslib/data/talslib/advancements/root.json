@@ -1,0 +1,32 @@
+{
+    "criteria": {
+      "0": {
+        "conditions": {},
+        "trigger": "minecraft:inventory_changed"
+      }
+    },
+    "display": {
+      "announce_to_chat": false,
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "description": {
+        "color": "#DBA213",
+        "text": "Install Tal's Lib"
+      },
+      "frame": "task",
+      "hidden": false,
+      "icon": {
+        "item": "minecraft:warped_planks"
+      },
+      "show_toast": false,
+      "title": {
+        "color": "#000FF",
+        "text": "Tal's Lib"
+      }
+    },
+    "requirements": [
+      [
+        "0"
+      ]
+    ],
+    "sends_telemetry_event": true
+  }

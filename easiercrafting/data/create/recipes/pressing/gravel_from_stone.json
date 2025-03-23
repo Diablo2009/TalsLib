@@ -1,0 +1,14 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+      {
+        "tag": "talslib:stone"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:gravel",
+        "count": 4
+      }
+    ]
+  }

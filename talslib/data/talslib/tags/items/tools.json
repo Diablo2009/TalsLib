@@ -1,0 +1,17 @@
+{
+    "values": [
+        {
+            "id": "#forge:tools",
+            "required": false
+        },
+        {
+            "id": "#c:tools",
+            "required": false
+        },
+        "#minecraft:swords",
+        "#minecraft:axes",
+        "#minecraft:pickaxes",
+        "#minecraft:shovels",
+        "#minecraft:hoes"
+    ]
+}

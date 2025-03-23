@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "talslib:dusts"
+        }
+    ],
+    "result": {
+        "item": "minecraft:gold_nugget"
+    },
+    "category": "misc",
+    "group": "gravel-nuggets"
+}
